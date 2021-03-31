@@ -1,0 +1,8 @@
+Testes  39 ao  39
+<ttn.handler.HandlerClient object at 0x03A50F88>
+Teste  39 :
+
+Configurando limite de luminosidade em  685 lux.
+Reiniciando...
+Teste 39: True
+

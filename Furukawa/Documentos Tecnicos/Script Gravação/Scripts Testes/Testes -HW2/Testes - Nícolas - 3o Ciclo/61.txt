@@ -1,0 +1,11 @@
+Testes  61 ao  61
+<ttn.handler.HandlerClient object at 0x043C0F88>
+Teste  61 :
+
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Configurando: 
+Keep Alive:  390 s, Warn Period:  95 s, Warn tx:  25 s, Bateria:  3.2 V, Luminosidade:  526 lux, Ângulo:  50  Queda:  469 Tempo:  38.125
+Teste 61: True
+

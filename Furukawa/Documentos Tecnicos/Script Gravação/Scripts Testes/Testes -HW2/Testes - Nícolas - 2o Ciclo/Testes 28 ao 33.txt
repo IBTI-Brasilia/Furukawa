@@ -1,0 +1,66 @@
+Testes  28 ao  33
+<ttn.handler.HandlerClient object at 0x03DA0F88>
+Teste  28 :
+
+Configurando Keep Alive em  120 s.
+Reiniciando...
+Teste 28: True
+
+Teste  29 :
+
+Configurando limite de luminosidade em  10 lux.
+Configurando Warn Period em  75 s.
+Configurando limite de luminosidade em  800 lux.
+Mensagem recebida fora da porta  2
+Warn period medido:  75.03705501556396
+Teste 29: True
+
+Teste  30 :
+
+Configurando limite de luminosidade em  10 lux.
+Configurando: 
+Keep Alive:  30 s, Warn Period:  90 s, Warn tx:  15 s, Bateria:  3 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Configurando limite de luminosidade em  800 lux.
+Mensagem recebida fora da porta  2
+Warn period medido:  90.16048979759216
+Teste 30: True
+
+Teste  31 :
+
+Configurando Warn Period em  45 s.
+Reiniciando...
+Teste 31: True
+
+Teste  32 :
+
+Configurando limite de luminosidade em  10 lux.
+Configurando Warn Tx em  20 s.
+Tempo entre os pacotes no modo 2:  21.027113914489746
+Tempo entre os pacotes no modo 2:  20.012486934661865
+Tempo entre os pacotes no modo 2:  20.01208806037903
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Teste 32: True
+
+Teste  33 :
+
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Configurando: 
+Keep Alive:  150 s, Warn Period:  140 s, Warn tx:  20 s, Bateria:  3 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Tempo entre os pacotes no modo 2:  20.01146364212036
+Tempo entre os pacotes no modo 2:  20.01129984855652
+Tempo entre os pacotes no modo 2:  20.029707670211792
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Uplink não foi na Porta 6, tentando novamente
+Uplink não foi na Porta 6, tentando novamente
+Dispositivo configurado corretamente!
+Teste 33: True
+

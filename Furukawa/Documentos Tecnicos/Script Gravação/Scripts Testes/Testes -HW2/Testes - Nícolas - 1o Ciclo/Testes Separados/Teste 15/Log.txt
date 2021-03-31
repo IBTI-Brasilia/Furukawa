@@ -1,0 +1,12 @@
+Testes  15 ao  15
+<ttn.handler.HandlerClient object at 0x00B10F70>
+Teste  15 :
+
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Configurando limite de luminosidade em  10 lux.
+Tempo entre os pacotes no modo 2:  15.031233072280884
+Tempo entre os pacotes no modo 2:  16.11342453956604
+Tempo entre os pacotes no modo 2:  15.027565479278564
+Teste 15: True
+

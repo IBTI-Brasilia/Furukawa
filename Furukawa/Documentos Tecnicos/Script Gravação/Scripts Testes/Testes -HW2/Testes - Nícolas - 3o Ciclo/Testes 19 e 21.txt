@@ -1,0 +1,20 @@
+Testes  19 ao  21
+<ttn.handler.HandlerClient object at 0x03A50F88>
+Teste  19 :
+
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3 V, Luminosidade:  700 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Teste 19: True
+
+Teste  20 :
+
+Configurando Acelerometro: Angulo:  60  Queda:  406  Tempo:  25  Z:  29 .
+Teste 20: True
+
+Teste  21 :
+
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3 V, Luminosidade:  800 lux, Ângulo:  80  Queda:  500 Tempo:  15
+Uplink não foi na Porta 6, tentando novamente
+Teste 21: True
+

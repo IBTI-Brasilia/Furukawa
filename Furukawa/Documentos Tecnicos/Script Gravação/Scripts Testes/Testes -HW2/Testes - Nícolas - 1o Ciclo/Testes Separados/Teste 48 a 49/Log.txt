@@ -1,0 +1,13 @@
+Testes  48 ao  49
+<ttn.handler.HandlerClient object at 0x04280F88>
+Teste  48 :
+
+Configurando Warn Period em  50 s.
+Mensagem recebida fora da porta  6
+Teste 48: True
+
+Teste  49 :
+
+Configurando Warn Period em  5 s.
+Teste 49: True
+

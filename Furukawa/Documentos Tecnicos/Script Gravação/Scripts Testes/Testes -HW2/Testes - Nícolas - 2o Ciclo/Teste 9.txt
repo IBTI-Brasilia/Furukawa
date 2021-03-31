@@ -1,0 +1,11 @@
+Testes  9 ao  14
+<ttn.handler.HandlerClient object at 0x013C0F70>
+Teste  9 :
+
+Configurando limite da bateria em  4 V.
+Reiniciando...
+Teste 9: True
+
+Teste  10 :
+
+Configurando Keep Alive em  90 s.

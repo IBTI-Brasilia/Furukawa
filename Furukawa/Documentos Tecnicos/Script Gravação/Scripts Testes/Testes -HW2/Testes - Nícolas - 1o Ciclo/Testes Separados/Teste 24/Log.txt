@@ -1,0 +1,89 @@
+Testes  24 ao  27
+<ttn.handler.HandlerClient object at 0x04370F88>
+Teste  24 :
+
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+A configuração falhou.
+Keep Alive:  30
+Warn period:  25
+Warn tx:  15
+Battery:  3.0
+Luminosity:  10
+Tempo de Duração:  20.0
+Angulo:  50 °
+Queda Livre:  156 mg
+Tentando novamente...
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+A configuração falhou.
+Keep Alive:  30
+Warn period:  25
+Warn tx:  15
+Battery:  3.0
+Luminosity:  10
+Tempo de Duração:  20.0
+Angulo:  50 °
+Queda Livre:  156 mg
+Tentando novamente...
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+A configuração falhou.
+Keep Alive:  30
+Warn period:  25
+Warn tx:  15
+Battery:  3.0
+Luminosity:  10
+Tempo de Duração:  20.0
+Angulo:  50 °
+Queda Livre:  156 mg
+Tentando novamente...
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Teste 24: True
+
+Teste  25 :
+
+Configurando limite de luminosidade em  10 lux.
+Configurando limite da bateria em  4 V.
+Configurando limite de luminosidade em  800 lux.
+Configurando limite de luminosidade em  800 lux.
+Mensagem recebida fora da porta  1
+Mensagem recebida fora da porta  1
+Mensagem recebida fora da porta  1
+Mensagem recebida fora da porta  2
+Teste 25: False
+
+Teste  26 :
+
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Configurando Keep Alive em  60 s.
+Configurando limite de luminosidade em  800 lux.
+As Configurações não foram obedecidas, Keep Alive diferente
+Keep Alive:  60
+Warn period:  25
+Warn tx:  15
+Battery:  4.0
+Luminosity:  800
+Tempo de Duração:  20.0
+Angulo:  50 °
+Queda Livre:  156 mg
+Teste 26: False
+
+Teste  27 :
+
+Configurando limite de luminosidade em  10 lux.
+Configurando: 
+Keep Alive:  45 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Uplink não foi na Porta 6, tentando novamente
+Dispositivo configurado corretamente!
+Teste 27: False
+

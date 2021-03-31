@@ -1,0 +1,15 @@
+Testes  33 ao  33
+<ttn.handler.HandlerClient object at 0x03C11148>
+Teste  33 :
+
+Configurando limite de luminosidade em  10 lux.
+Configurando: 
+Keep Alive:  150 s, Warn Period:  140 s, Warn tx:  20 s, Bateria:  3 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Tempo entre os pacotes no modo 2:  20.009313821792603
+Tempo entre os pacotes no modo 2:  21.008429527282715
+Tempo entre os pacotes no modo 2:  19.02354621887207
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Teste 33: True
+

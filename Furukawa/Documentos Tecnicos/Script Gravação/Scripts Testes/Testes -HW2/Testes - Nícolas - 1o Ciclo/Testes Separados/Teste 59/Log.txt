@@ -1,0 +1,12 @@
+Testes  59 ao  59
+<ttn.handler.HandlerClient object at 0x019E0F70>
+Teste  59 :
+
+Configurando: 
+Keep Alive:  3600 s, Warn Period:  120 s, Warn tx:  20 s, Bateria:  2 V, Luminosidade:  10 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Configurando: 
+Keep Alive:  240 s, Warn Period:  120 s, Warn tx:  20 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Dispositivo ainda está enviando dados na Porta 2
+Teste 59: True
+

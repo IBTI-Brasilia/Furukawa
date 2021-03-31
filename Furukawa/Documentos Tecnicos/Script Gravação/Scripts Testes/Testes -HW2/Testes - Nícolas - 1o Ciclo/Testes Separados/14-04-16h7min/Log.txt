@@ -1,0 +1,10 @@
+Testes  7 ao  7
+<ttn.handler.HandlerClient object at 0x004F0F70>
+Teste  7 :
+
+Configurando: 
+Keep Alive:  120 s, Warn Period:  60 s, Warn tx:  10 s, Bateria:  3 V, Luminosidade:  10 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Mensagem recebida fora da porta  2
+Teste 7: True
+

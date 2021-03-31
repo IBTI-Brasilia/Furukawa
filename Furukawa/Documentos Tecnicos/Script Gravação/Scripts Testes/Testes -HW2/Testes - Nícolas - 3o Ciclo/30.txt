@@ -1,0 +1,12 @@
+Testes  30 ao  30
+<ttn.handler.HandlerClient object at 0x03E40F88>
+Teste  30 :
+
+Configurando limite de luminosidade em  10 lux.
+Configurando: 
+Keep Alive:  30 s, Warn Period:  90 s, Warn tx:  15 s, Bateria:  3 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Configurando limite de luminosidade em  800 lux.
+Mensagem recebida fora da porta  2
+Warn period medido:  89.0481219291687
+Teste 30: True
+

@@ -1,0 +1,11 @@
+Testes  37 ao  37
+<ttn.handler.HandlerClient object at 0x03DA0F88>
+Teste  37 :
+
+Configurando limite de luminosidade em  10 lux.
+Configurando limite de luminosidade em  2 lux.
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Teste 37: True
+

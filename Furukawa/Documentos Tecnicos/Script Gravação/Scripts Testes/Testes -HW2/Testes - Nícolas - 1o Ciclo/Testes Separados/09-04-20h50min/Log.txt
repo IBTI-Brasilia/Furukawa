@@ -1,0 +1,472 @@
+Testes  0 ao  64
+<ttn.handler.HandlerClient object at 0x041B7D00>
+Teste  0 :
+
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Reiniciando...
+Reiniciando...
+Tempo entre os pacotes no modo 1:  29.038777112960815
+Teste 0: True
+
+Teste  1 :
+
+Teste 1: True
+
+Teste  2 :
+
+Teste 2: True
+
+Teste  3 :
+
+Teste 3: True
+
+Teste  4 :
+
+Uplink não foi na Porta 6, tentando novamente
+Uplink não foi na Porta 6, tentando novamente
+Uplink não foi na Porta 6, tentando novamente
+Tempo entre os pacotes no modo 1:  30.131840229034424
+Teste 4: True
+
+Teste  5 :
+
+Configurando limite da bateria em  4 V.
+Configurando limite da bateria em  3 V.
+Teste 5: True
+
+Teste  6 :
+
+Configurando: 
+Keep Alive:  120 s, Warn Period:  60 s, Warn tx:  10 s, Bateria:  3 V, Luminosidade:  10 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Tempo entre os pacotes no modo 2:  10.014800310134888
+Tempo entre os pacotes no modo 2:  10.059539556503296
+Tempo entre os pacotes no modo 2:  10.031250715255737
+Configurando limite de luminosidade em  800 lux.
+Mensagem recebida fora da porta  6
+Configurando limite de luminosidade em  800 lux.
+Mensagem recebida fora da porta  6
+Configurando limite de luminosidade em  800 lux.
+Mensagem recebida fora da porta  6
+Configurando limite de luminosidade em  800 lux.
+Mensagem recebida fora da porta  2
+Reconfigurando o dispositivo
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Teste 6: False
+
+Teste  7 :
+
+Configurando: 
+Keep Alive:  120 s, Warn Period:  60 s, Warn tx:  10 s, Bateria:  3 V, Luminosidade:  10 lux, Ângulo:  50  Queda:  156 Tempo:  20
+A configuração falhou.
+Keep Alive:  30
+Warn period:  25
+Warn tx:  15
+Battery:  3.0
+Luminosity:  800
+Tempo de Duração:  20.0
+Angulo:  50 °
+Queda Livre:  156 mg
+Tentando novamente...
+Configurando: 
+Keep Alive:  120 s, Warn Period:  60 s, Warn tx:  10 s, Bateria:  3 V, Luminosidade:  10 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Dispositivo entrou ainda está enviando dados na Porta 2
+Teste 7: False
+
+Teste  8 :
+
+Configurando limite de luminosidade em  1 lux.
+Reiniciando...
+Configurando limite de luminosidade em  700 lux.
+Teste 8: True
+
+Teste  9 :
+
+Configurando limite da bateria em  3.6 V.
+Reiniciando...
+Mensagem recebida fora da porta  1
+Teste 9: False
+
+Teste  10 :
+
+Configurando Keep Alive em  90 s.
+Mensagem recebida fora da porta  1
+Teste 10: False
+
+Teste  11 :
+
+Configurando: 
+Keep Alive:  50 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Mensagem recebida fora da porta  1
+Teste 11: False
+
+Teste  12 :
+
+Configurando: 
+Keep Alive:  120 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+A configuração falhou.
+Keep Alive:  30
+Warn period:  25
+Warn tx:  15
+Battery:  3.0
+Luminosity:  800
+Tempo de Duração:  20.0
+Angulo:  50 °
+Queda Livre:  156 mg
+Configurando Warn Period em  90 s.
+Configurando limite de luminosidade em  10 lux.
+Configurando limite de luminosidade em  800 lux.
+Configurando limite de luminosidade em  800 lux.
+Mensagem recebida fora da porta  2
+Warn Period maior do que 60s! Tempo medido:  29.094691038131714
+Teste 12: False
+
+Teste  13 :
+
+Configurando: 
+Keep Alive:  60 s, Warn Period:  45 s, Warn tx:  15 s, Bateria:  3 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Configurando limite de luminosidade em  10 lux.
+Configurando limite de luminosidade em  800 lux.
+Mensagem recebida fora da porta  2
+Warn period medido:  45.169109582901
+Teste 13: True
+
+Teste  14 :
+
+Configurando Warn Tx em  20 s.
+Configurando limite de luminosidade em  10 lux.
+Tempo entre os pacotes no modo 2:  19.044111013412476
+Tempo entre os pacotes no modo 2:  20.126887798309326
+Tempo entre os pacotes no modo 2:  20.06116485595703
+Teste 14: True
+
+Teste  15 :
+
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Configurando limite de luminosidade em  10 lux.
+Configurando limite de luminosidade em  800 lux.
+Mensagem recebida fora da porta  2
+Warn Period maior do que 60s! Tempo medido:  30.070393323898315
+Teste 15: False
+
+Teste  16 :
+
+Configurando limite da bateria em  1 V.
+Teste 16: False
+
+Teste  17 :
+
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.1 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Uplink não foi na Porta 6, tentando novamente
+Teste 17: False
+
+Teste  18 :
+
+Configurando limite de luminosidade em  500 lux.
+Teste 18: True
+
+Teste  19 :
+
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3 V, Luminosidade:  700 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Teste 19: True
+
+Teste  20 :
+
+Configurando Acelerometro: Angulo:  60  Queda:  406  Tempo:  25  Z:  29 .
+Uplink não foi na Porta 6, tentando novamente
+Teste 20: False
+
+Teste  21 :
+
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3 V, Luminosidade:  800 lux, Ângulo:  80  Queda:  500 Tempo:  15
+Uplink não foi na Porta 6, tentando novamente
+Teste 21: True
+
+Teste  22 :
+
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Uplink não foi na Porta 6, tentando novamente
+Dispositivo configurado corretamente!
+Teste 22: True
+
+Teste  23 :
+
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+A configuração falhou.
+Keep Alive:  30
+Warn period:  25
+Warn tx:  15
+Battery:  3.0
+Luminosity:  10
+Tempo de Duração:  20.0
+Angulo:  50 °
+Queda Livre:  156 mg
+Tentando novamente...
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Uplink não foi na Porta 6, tentando novamente
+Uplink não foi na Porta 6, tentando novamente
+Dispositivo configurado corretamente!
+Teste 23: True
+
+Teste  24 :
+
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  5
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+A configuração falhou.
+Keep Alive:  30
+Warn period:  25
+Warn tx:  15
+Battery:  3.0
+Luminosity:  10
+Tempo de Duração:  20.0
+Angulo:  50 °
+Queda Livre:  156 mg
+Tentando novamente...
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Teste 24: False
+
+Teste  25 :
+
+Configurando limite de luminosidade em  10 lux.
+Configurando limite da bateria em  4 V.
+Configurando limite de luminosidade em  800 lux.
+Uplink não foi na Porta 6, tentando novamente
+Mensagem recebida fora da porta  1
+Mensagem recebida fora da porta  2
+Teste 25: False
+
+Teste  26 :
+
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Configurando Keep Alive em  60 s.
+Configurando limite de luminosidade em  800 lux.
+As Configurações não foram obedecidas, Keep Alive diferente
+Keep Alive:  60
+Warn period:  25
+Warn tx:  15
+Battery:  3.0
+Luminosity:  800
+Tempo de Duração:  20.0
+Angulo:  50 °
+Queda Livre:  156 mg
+Teste 26: False
+
+Teste  27 :
+
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Configurando: 
+Keep Alive:  45 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Teste 27: False
+
+Teste  28 :
+
+Configurando Keep Alive em  120 s.
+Reiniciando...
+Teste 28: True
+
+Teste  29 :
+
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Configurando Warn Period em  75 s.
+Configurando limite de luminosidade em  800 lux.
+Mensagem recebida fora da porta  2
+Warn period medido:  75.30704307556152
+Teste 29: True
+
+Teste  30 :
+
+Configurando limite de luminosidade em  10 lux.
+Configurando: 
+Keep Alive:  30 s, Warn Period:  90 s, Warn tx:  15 s, Bateria:  3 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Configurando limite de luminosidade em  800 lux.
+Mensagem recebida fora da porta  2
+Warn period medido:  89.32829880714417
+Teste 30: True
+
+Teste  31 :
+
+Configurando Warn Period em  45 s.
+Reiniciando...
+Teste 31: True
+
+Teste  32 :
+
+Configurando limite de luminosidade em  10 lux.
+Configurando Warn Tx em  20 s.
+Tempo entre os pacotes no modo 2:  20.078271627426147
+Tempo entre os pacotes no modo 2:  20.06417465209961
+Tempo entre os pacotes no modo 2:  20.074785470962524
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Uplink não foi na Porta 6, tentando novamente
+Uplink não foi na Porta 6, tentando novamente
+Dispositivo configurado corretamente!
+Teste 32: True
+
+Teste  33 :
+
+Configurando limite de luminosidade em  10 lux.
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  25 s, Bateria:  3 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Mensagem recebida fora da porta  2
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Teste 33: False
+
+Teste  34 :
+
+Configurando Warn Tx em  10 s.
+Reiniciando...
+Teste 34: True
+
+Teste  35 :
+
+Configurando limite de luminosidade em  10 lux.
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  4 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Configurando limite de luminosidade em  800 lux.
+Mensagem recebida fora da porta  1
+Mensagem recebida fora da porta  2
+Teste 35: False
+
+Teste  36 :
+
+Configurando limite da bateria em  1.25 V.
+Reiniciando...
+Uplink não foi na Porta 6, tentando novamente
+Teste 36: True
+
+Teste  37 :
+
+Configurando limite de luminosidade em  10 lux.
+Configurando limite de luminosidade em  2 lux.
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Teste 37: True
+
+Teste  38 :
+
+Configurando limite de luminosidade em  10 lux.
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3 V, Luminosidade:  2 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+A configuração falhou.
+Keep Alive:  30
+Warn period:  25
+Warn tx:  15
+Battery:  3.0
+Luminosity:  2
+Tempo de Duração:  20.0
+Angulo:  50 °
+Queda Livre:  156 mg
+Tentando novamente...
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Teste 38: True
+
+Teste  39 :
+
+Configurando limite de luminosidade em  685 lux.
+Reiniciando...
+Teste 39: False
+
+Teste  40 :
+
+Configurando limite de luminosidade em  10 lux.
+Configurando Acelerometro: Angulo:  60  Queda:  406  Tempo:  25  Z:  29 .
+Uplink não foi na Porta 6, tentando novamente
+Uplink não foi na Porta 6, tentando novamente
+Uplink não foi na Porta 6, tentando novamente
+Uplink não foi na Porta 6, tentando novamente
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Uplink não foi na Porta 6, tentando novamente
+A configuração falhou.
+Keep Alive:  30
+Warn period:  25
+Warn tx:  15
+Battery:  3.0
+Luminosity:  10
+Tempo de Duração:  20.0
+Angulo:  50 °
+Queda Livre:  156 mg
+Tentando novamente...
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Teste 40: False
+
+Teste  41 :
+
+Configurando limite de luminosidade em  10 lux.
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3 V, Luminosidade:  800 lux, Ângulo:  80  Queda:  500 Tempo:  15
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Teste 41: True
+
+Teste  42 :
+
+Configurando Acelerometro: Angulo:  70  Queda:  312  Tempo:  10  Z:  11 .
+Reiniciando...
+Teste 42: True
+
+Teste  43 :
+
+Configurando: 
+Keep Alive:  150 s, Warn Period:  120 s, Warn tx:  30 s, Bateria:  3 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Configurando Keep Alive em  30 s.
+Teste 43: False
+
+Teste  44 :
+

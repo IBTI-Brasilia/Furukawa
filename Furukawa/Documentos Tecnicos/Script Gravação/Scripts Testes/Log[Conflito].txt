@@ -1,0 +1,30 @@
+Testes  25 ao  25
+<ttn.handler.HandlerClient object at 0x042FFF88>
+Teste  25 :
+
+Configurando limite de luminosidade em  10 lux.
+Configurando: 
+Keep Alive:  150 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  4 V, Luminosidade:  10 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Configurando limite de luminosidade em  800 lux.
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  1.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Teste 25: True
+
+<ttn.handler.HandlerClient object at 0x0000023D68C62F88>
+Configurando Keep Alive em  75 s.
+Configurando Warn Period em  40 s.
+Configurando Keep Alive em  60 s.
+Configurando Warn Period em  30 s.
+<ttn.handler.HandlerClient object at 0x00000225E9A12F88>
+Configurando limite da bateria em  2.5 V.
+Configurando limite da bateria em  2.0 V.
+Uplink Recebido em outro device
+Uplink Recebido em outro device
+Uplink Recebido em outro device
+Uplink Recebido em outro device
+Uplink Recebido em outro device
+Uplink Recebido em outro device
+<ttn.handler.HandlerClient object at 0x0000015E05A62F88>
+<ttn.handler.HandlerClient object at 0x000001F491B72F88>
+Configurando limite de luminosidade em  3 lux.

@@ -1,0 +1,92 @@
+Testes  0 ao  64
+<ttn.handler.HandlerClient object at 0x03E50F88>
+Teste  0 :
+
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  1.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Reiniciando...
+Reiniciando...
+Tempo entre os pacotes no modo 1:  31.02063012123108
+Teste 0: True
+
+Teste  1 :
+
+Teste 1: True
+
+Teste  2 :
+
+Teste 2: True
+
+Teste  3 :
+
+Teste 3: True
+
+Teste  4 :
+
+Tempo entre os pacotes no modo 1:  30.01770567893982
+Teste 4: True
+
+Teste  5 :
+
+Configurando limite da bateria em  4 V.
+Configurando limite da bateria em  3 V.
+Teste 5: True
+
+Teste  6 :
+
+Configurando: 
+Keep Alive:  120 s, Warn Period:  60 s, Warn tx:  10 s, Bateria:  1 V, Luminosidade:  10 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Tempo entre os pacotes no modo 2:  10.015032529830933
+Tempo entre os pacotes no modo 2:  10.00542688369751
+Tempo entre os pacotes no modo 2:  10.024871349334717
+Configurando limite de luminosidade em  800 lux.
+Mensagem recebida fora da porta  2
+Warn period medido:  60.03961634635925
+Reconfigurando o dispositivo
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  1.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Teste 6: True
+
+Teste  7 :
+
+Configurando: 
+Keep Alive:  120 s, Warn Period:  60 s, Warn tx:  10 s, Bateria:  1 V, Luminosidade:  10 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Dispositivo Enviou Mensagem na Pora 1
+Teste 7: True
+
+Teste  8 :
+
+Configurando limite de luminosidade em  1 lux.
+Reiniciando...
+Configurando limite de luminosidade em  700 lux.
+Teste 8: True
+
+Teste  9 :
+
+Configurando limite da bateria em  4 V.
+Reiniciando...
+Mensagem recebida fora da porta  1
+Mensagem recebida fora da porta  1
+Mensagem recebida fora da porta  1
+Configurando limite da bateria em  1 V.
+Teste 9: True
+
+Teste  10 :
+
+Configurando Keep Alive em  90 s.
+Teste 10: True
+
+Teste  11 :
+
+Configurando: 
+Keep Alive:  60 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  1 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Teste 11: True
+
+Teste  12 :
+
+Configurando: 
+Keep Alive:  120 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  1 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20

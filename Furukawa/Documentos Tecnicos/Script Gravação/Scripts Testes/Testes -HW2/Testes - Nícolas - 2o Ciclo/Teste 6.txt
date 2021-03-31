@@ -1,0 +1,19 @@
+Testes  6 ao  6
+<ttn.handler.HandlerClient object at 0x03DA0F88>
+Teste  6 :
+
+Configurando: 
+Keep Alive:  120 s, Warn Period:  60 s, Warn tx:  10 s, Bateria:  3 V, Luminosidade:  10 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Tempo entre os pacotes no modo 2:  10.005916357040405
+Tempo entre os pacotes no modo 2:  10.017275094985962
+Tempo entre os pacotes no modo 2:  10.005985736846924
+Configurando limite de luminosidade em  800 lux.
+Mensagem recebida fora da porta  2
+Warn period medido:  60.08604645729065
+Reconfigurando o dispositivo
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Teste 6: True
+

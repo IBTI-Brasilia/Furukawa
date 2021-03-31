@@ -1,0 +1,59 @@
+<ttn.handler.HandlerClient object at 0x0082E7F0>
+<ttn.handler.HandlerClient object at 0x00B5E7F0>
+<ttn.handler.HandlerClient object at 0x013EE7F0>
+Testes  11 ao  12
+<ttn.handler.HandlerClient object at 0x048B0F88>
+Teste  11 :
+
+Configurando: 
+Keep Alive:  50 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+As Configurações não foram obedecidas, Keep Alive diferente
+Keep Alive:  30
+Warn period:  25
+Warn tx:  15
+Battery:  3.0
+Luminosity:  800
+Tempo de Duração:  20.0
+Angulo:  50 °
+Queda Livre:  156 mg
+Teste 11: False
+
+Teste  12 :
+
+Configurando: 
+Keep Alive:  120 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Configurando Warn Period em  90 s.
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+<ttn.handler.HandlerClient object at 0x00F9E7F0>
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Configurando limite de luminosidade em  800 lux.
+Mensagem recebida fora da porta  2
+Warn period medido:  90.23294734954834
+Teste 12: True
+

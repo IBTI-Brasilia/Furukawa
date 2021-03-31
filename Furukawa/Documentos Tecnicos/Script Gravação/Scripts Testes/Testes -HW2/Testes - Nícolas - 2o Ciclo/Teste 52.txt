@@ -1,0 +1,8 @@
+Testes  52 ao  52
+<ttn.handler.HandlerClient object at 0x03DA0F88>
+Teste  52 :
+
+Configurando Warn Tx em  5 s.
+Mensagem recebida fora da porta  6
+Teste 52: True
+

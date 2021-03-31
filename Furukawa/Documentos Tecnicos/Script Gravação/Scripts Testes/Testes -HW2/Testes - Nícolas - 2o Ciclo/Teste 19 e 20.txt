@@ -1,0 +1,13 @@
+Testes  19 ao  20
+<ttn.handler.HandlerClient object at 0x04680F88>
+Teste  19 :
+
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3 V, Luminosidade:  700 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Teste 19: True
+
+Teste  20 :
+
+Configurando Acelerometro: Angulo:  60  Queda:  406  Tempo:  25  Z:  29 .
+Teste 20: True
+

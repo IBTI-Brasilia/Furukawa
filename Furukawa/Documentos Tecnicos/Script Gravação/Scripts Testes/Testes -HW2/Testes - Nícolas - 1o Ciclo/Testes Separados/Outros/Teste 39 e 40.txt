@@ -1,0 +1,17 @@
+Testes  39 ao  40
+<ttn.handler.HandlerClient object at 0x00E20F70>
+Teste  39 :
+
+Configurando limite de luminosidade em  685 lux.
+Reiniciando...
+Teste 39: False
+
+Teste  40 :
+
+Configurando limite de luminosidade em  10 lux.
+Configurando Acelerometro: Angulo:  60  Queda:  406  Tempo:  25  Z:  29 .
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Teste 40: True
+

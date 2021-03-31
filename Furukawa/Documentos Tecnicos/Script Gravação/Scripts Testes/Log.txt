@@ -1,0 +1,20 @@
+Testes  0 ao  0
+<ttn.handler.HandlerClient object at 0x03E7AF40>
+Teste  0 :
+
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  1.0 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+<ttn.handler.HandlerClient object at 0x0091E7F0>
+<ttn.handler.HandlerClient object at 0x008AE7F0>
+Configurando Keep Alive em  120 s.
+<ttn.handler.HandlerClient object at 0x0041E7F0>
+<ttn.handler.HandlerClient object at 0x000002704C2FE388>
+<ttn.handler.HandlerClient object at 0x000001DAABFADA48>
+<ttn.handler.HandlerClient object at 0x000002ECE146DA48>
+<ttn.handler.HandlerClient object at 0x00000156C049E3C8>
+<ttn.handler.HandlerClient object at 0x0000022CABDB8708>
+<ttn.handler.HandlerClient object at 0x000002DA16F0E408>
+<ttn.handler.HandlerClient object at 0x000001B09B6BE448>
+<ttn.handler.HandlerClient object at 0x000001D806FADA48>
+<ttn.handler.HandlerClient object at 0x0000025D6946DA48>
+<ttn.handler.HandlerClient object at 0x00000205628CE448>

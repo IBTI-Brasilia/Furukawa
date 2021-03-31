@@ -1,0 +1,18 @@
+Testes  43 ao  44
+<ttn.handler.HandlerClient object at 0x04B30F88>
+Teste  43 :
+
+Configurando: 
+Keep Alive:  150 s, Warn Period:  120 s, Warn tx:  30 s, Bateria:  3 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Configurando Keep Alive em  30 s.
+Teste 43: True
+
+Teste  44 :
+
+Configurando: 
+Keep Alive:  150 s, Warn Period:  120 s, Warn tx:  30 s, Bateria:  3 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Dispositivo configurado corretamente!
+Configurando Keep Alive em  90 s.
+Teste 44: True
+

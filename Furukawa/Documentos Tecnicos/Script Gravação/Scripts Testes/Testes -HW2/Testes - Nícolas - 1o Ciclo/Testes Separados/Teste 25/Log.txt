@@ -1,0 +1,16 @@
+Testes  25 ao  25
+<ttn.handler.HandlerClient object at 0x00C40F70>
+Teste  25 :
+
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Mensagem recebida fora da porta  2
+Configurando limite de luminosidade em  10 lux.
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  4 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Configurando limite de luminosidade em  800 lux.
+Mensagem recebida fora da porta  1
+Mensagem recebida fora da porta  2
+Teste 25: False
+

@@ -1,0 +1,10 @@
+Testes  39 ao  39
+<ttn.handler.HandlerClient object at 0x00930F70>
+Teste  39 :
+
+Configurando limite de luminosidade em  685 lux.
+Reiniciando...
+Uplink não foi na Porta 6, tentando novamente
+Teste 39: True
+
+Configurando limite de luminosidade em  800 lux.

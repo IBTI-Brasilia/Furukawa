@@ -1,0 +1,76 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+Debug/
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+Release/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+inc/Commissioning.h
+
+SerialGUI_qt/build-terminal-Desktop_Qt_5_12_3_MinGW_64_bit-Debug/.qmake.stash
+
+SerialGUI_qt/build-terminal-Desktop_Qt_5_12_3_MinGW_64_bit-Debug/Makefile
+
+SerialGUI_qt/build-terminal-Desktop_Qt_5_12_3_MinGW_64_bit-Debug/Makefile.Debug
+
+SerialGUI_qt/build-terminal-Desktop_Qt_5_12_3_MinGW_64_bit-Debug/Makefile.Release
+
+SerialGUI_qt/build-terminal-Desktop_Qt_5_12_3_MinGW_64_bit-Debug/ui_mainwindow.h
+
+SerialGUI_qt/build-terminal-Desktop_Qt_5_12_3_MinGW_64_bit-Debug/ui_settingsdialog.h
+
+SerialGUI_qt/terminal/terminal.pro.user
+
+SerialGUI_qt/build-terminal-Desktop_Qt_5_12_3_MinGW_64_bit-Debug/usersgabriappdatalocaltemptmpquaevd
+
+SerialGUI_qt/terminal/terminal.pro.user.6240b8f.22
+
+.settings/language.settings.xml

@@ -1,0 +1,4 @@
+Certificação Realizada no dia 14-04-20 18:44:34
+Dev_id utilizado: tests_mode
+Teste 25: True
+Teste 26: True

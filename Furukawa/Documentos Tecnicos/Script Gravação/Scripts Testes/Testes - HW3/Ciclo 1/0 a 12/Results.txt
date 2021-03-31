@@ -1,0 +1,14 @@
+Certificação Realizada no dia 08-05-20 09:10:56
+Dev_id utilizado: placa_prototipo
+Teste 0: True
+Teste 1: True
+Teste 2: True
+Teste 3: True
+Teste 4: True
+Teste 5: True
+Teste 6: True
+Teste 7: True
+Teste 8: True
+Teste 9: True
+Teste 10: True
+Teste 11: True

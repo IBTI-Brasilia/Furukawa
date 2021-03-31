@@ -1,0 +1,23 @@
+Certificação Realizada no dia 09-04-20 20:51:24
+Dev_id utilizado: tests_mode
+Teste 44: False
+Teste 45: False
+Teste 46: True
+Teste 47: True
+Teste 48: False
+Teste 49: False
+Teste 50: True
+Teste 51: True
+Teste 52: True
+Teste 53: True
+Teste 54: True
+Teste 55: True
+Teste 56: True
+Teste 57: True
+Teste 58: True
+Teste 59: False
+Teste 60: True
+Teste 61: True
+Teste 62: True
+Teste 63: True
+Teste 64: True

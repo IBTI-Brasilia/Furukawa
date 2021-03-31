@@ -1,0 +1,25 @@
+Testes  15 ao  18
+<ttn.handler.HandlerClient object at 0x04020F88>
+Teste  15 :
+
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Configurando limite de luminosidade em  10 lux.
+Configurando limite de luminosidade em  800 lux.
+Mensagem recebida fora da porta  2
+Teste 15: False
+
+Teste  16 :
+
+Configurando limite da bateria em  1 V.
+Teste 16: True
+
+Teste  17 :
+
+Configurando: 
+Keep Alive:  30 s, Warn Period:  25 s, Warn tx:  15 s, Bateria:  3.1 V, Luminosidade:  800 lux, Ângulo:  50  Queda:  156 Tempo:  20
+Teste 17: True
+
+Teste  18 :
+
+Configurando limite de luminosidade em  500 lux.
